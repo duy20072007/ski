@@ -1,37 +1,7 @@
-table{
-    border: 1px solid black;
-    border-collapse: collapse ;
-    width: 80%;
-   
-    table-layout: fixed;
-    
-}
-td{
-    width: 10%;
-    height: 182px;
-    border: 1px solid black;
-    border-collapse: collapse ;
-    text-align: center;
-}
-.td1:nth-child(even){background-color: black;}
-a{
-    color: blue;
-    text-decoration: none;
-    transition: color 5s, font-size 10s;
-
+h1{
+    color:blueviolet;
 }
 
-a:visited{
-    color:darkmagenta;
+#skiski{
+    color:brown
 }
-
-a:hover{
-    color:red;
-    font-size:150%;
-    text-decoration: underline;
-}
-
-a:active{
-    color:green;
-}
-
